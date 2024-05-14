@@ -1,0 +1,13 @@
+modèle 1.1 (mode non dégradé) :
+regression (linéaire simple ou multiple ou non linéaire)
+sortie : P1 ou T3p
+
+modèle 1.2 (mode degradé):
+regression (linéaire simple ou multiple ou non linéaire)
+sortie : P1 ou T3p en fonction du temps
+
+
+modèle 2 :
+réseau de neurones :
+entrées : Temps, Mo, CO, CR, T1
+sortie : P1 ou T3p en fonction du temps
